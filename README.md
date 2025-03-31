@@ -1,4 +1,4 @@
-# StacksNex Smart Contract
+# StacksNex 
 
 ## Overview
 StacksNex is a smart contract platform built on the Stacks blockchain ecosystem. It provides a decentralized asset management and conversion system, allowing users to deposit, withdraw, and convert assets such as STX, sBTC, and BTC seamlessly. The contract also includes user settings customization, protocol fee management, and an asset whitelist feature.
